@@ -1,0 +1,9 @@
+C:\Users\adpascu\CEC\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DeloitteBaseClassic\Files\Bin\DeloitteBaseClassic.dll
+C:\Users\adpascu\CEC\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DeloitteBaseClassic\Files\Bin\DeloitteBaseClassic.pdb
+C:\Users\adpascu\CEC\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DeloitteBaseClassic\Files\obj\Release\DeloitteBaseClassic.csproj.AssemblyReference.cache
+C:\Users\adpascu\CEC\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DeloitteBaseClassic\Files\obj\Release\DeloitteBaseClassic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adpascu\CEC\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DeloitteBaseClassic\Files\obj\Release\DeloitteBaseClassic.AssemblyInfoInputs.cache
+C:\Users\adpascu\CEC\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DeloitteBaseClassic\Files\obj\Release\DeloitteBaseClassic.AssemblyInfo.cs
+C:\Users\adpascu\CEC\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DeloitteBaseClassic\Files\obj\Release\DeloitteBaseClassic.csproj.CoreCompileInputs.cache
+C:\Users\adpascu\CEC\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DeloitteBaseClassic\Files\obj\Release\DeloitteBaseClassic.dll
+C:\Users\adpascu\CEC\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DeloitteBaseClassic\Files\obj\Release\DeloitteBaseClassic.pdb
