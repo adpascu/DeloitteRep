@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\adpascu\\CEC\\Creatio\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtOpportunityInC360\\Files\\CrtOpportunityInC360.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\adpascu\\CEC\\Creatio\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtOpportunityInC360\\Files\\CrtOpportunityInC360.csproj": {
+      "version": "8.0.9.1582",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\adpascu\\CEC\\Creatio\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtOpportunityInC360\\Files\\CrtOpportunityInC360.csproj",
+        "projectName": "CrtOpportunityInC360",
+        "projectPath": "C:\\Users\\adpascu\\CEC\\Creatio\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtOpportunityInC360\\Files\\CrtOpportunityInC360.csproj",
+        "packagesPath": "C:\\windows\\TEMP\\1\\IIS APPPOOL_Creatio\\Default\\dotnet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\adpascu\\CEC\\Creatio\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtOpportunityInC360\\Files\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\windows\\TEMP\\1\\IIS APPPOOL_Creatio\\Default\\dotnet\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

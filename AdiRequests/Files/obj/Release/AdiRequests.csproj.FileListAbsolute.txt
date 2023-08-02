@@ -1,0 +1,9 @@
+C:\Users\adpascu\CEC\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AdiRequests\Files\Bin\AdiRequests.dll
+C:\Users\adpascu\CEC\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AdiRequests\Files\Bin\AdiRequests.pdb
+C:\Users\adpascu\CEC\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AdiRequests\Files\obj\Release\AdiRequests.csproj.AssemblyReference.cache
+C:\Users\adpascu\CEC\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AdiRequests\Files\obj\Release\AdiRequests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adpascu\CEC\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AdiRequests\Files\obj\Release\AdiRequests.AssemblyInfoInputs.cache
+C:\Users\adpascu\CEC\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AdiRequests\Files\obj\Release\AdiRequests.AssemblyInfo.cs
+C:\Users\adpascu\CEC\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AdiRequests\Files\obj\Release\AdiRequests.csproj.CoreCompileInputs.cache
+C:\Users\adpascu\CEC\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AdiRequests\Files\obj\Release\AdiRequests.dll
+C:\Users\adpascu\CEC\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AdiRequests\Files\obj\Release\AdiRequests.pdb
