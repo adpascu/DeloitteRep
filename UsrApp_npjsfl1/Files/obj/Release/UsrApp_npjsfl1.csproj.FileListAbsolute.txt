@@ -1,9 +1,0 @@
-C:\Users\adpascu\CEC\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrApp_npjsfl1\Files\Bin\UsrApp_npjsfl1.dll
-C:\Users\adpascu\CEC\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrApp_npjsfl1\Files\Bin\UsrApp_npjsfl1.pdb
-C:\Users\adpascu\CEC\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrApp_npjsfl1\Files\obj\Release\UsrApp_npjsfl1.csproj.AssemblyReference.cache
-C:\Users\adpascu\CEC\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrApp_npjsfl1\Files\obj\Release\UsrApp_npjsfl1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\adpascu\CEC\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrApp_npjsfl1\Files\obj\Release\UsrApp_npjsfl1.AssemblyInfoInputs.cache
-C:\Users\adpascu\CEC\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrApp_npjsfl1\Files\obj\Release\UsrApp_npjsfl1.AssemblyInfo.cs
-C:\Users\adpascu\CEC\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrApp_npjsfl1\Files\obj\Release\UsrApp_npjsfl1.csproj.CoreCompileInputs.cache
-C:\Users\adpascu\CEC\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrApp_npjsfl1\Files\obj\Release\UsrApp_npjsfl1.dll
-C:\Users\adpascu\CEC\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrApp_npjsfl1\Files\obj\Release\UsrApp_npjsfl1.pdb
