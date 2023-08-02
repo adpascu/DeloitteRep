@@ -1,1 +1,0 @@
-﻿/*Process is not valid. Fix invalid elements "Expense added, Expense modified, Expense deleted, Calculate sum, Update request total" before starting it.*/
