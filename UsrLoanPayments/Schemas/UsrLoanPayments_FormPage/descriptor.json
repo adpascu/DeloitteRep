@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "5e4ed4de-861f-4874-bf3c-90e3870beba5",
+    "Name": "UsrLoanPayments_FormPage",
+    "ModifiedOnUtc": "\/Date(1691105585000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Loan Payments form page"
+  }
+}

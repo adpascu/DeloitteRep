@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e1dfdc38-10a7-4d6b-8402-6f9e8b9536d7",
+    "Name": "UsrLoanPayments_Detail",
+    "ModifiedOnUtc": "\/Date(1691095178000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Loan Payments detail",
+    "DependsOn": []
+  }
+}

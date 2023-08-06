@@ -1,0 +1,41 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "c8b72967-d299-4f79-8793-978d6cd7e39c",
+      "A2": "UsrLoanPaymentSignatureRelatedPage",
+      "A5": "2bb76116-bd36-4b18-aacc-4b6e01398c66",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "a0454b56-012d-4e6f-bff5-317c7351317c",
+      "B8": "8.0.9.1582",
+      "AD1": "dd41d7a1-894a-46bb-8808-2ca786ad86b1",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "Pages": [
+    {
+      "UId": "81bdf83b-ce3a-4915-9bce-fa4b04a455cc",
+      "PageSchemaUId": "a5ae64ec-7fcd-469f-8cd2-f2298346fd5b",
+      "IsDefault": true,
+      "IsSspDefault": false,
+      "Actions": null,
+      "Role": "a29a3ba5-4b0d-de11-9a51-005056c00008"
+    },
+    {
+      "UId": "fd6607b2-06be-a870-cf1d-e9b3b7e36e14",
+      "PageSchemaUId": "a5ae64ec-7fcd-469f-8cd2-f2298346fd5b",
+      "IsDefault": false,
+      "IsSspDefault": false,
+      "Actions": {
+        "Add": true
+      },
+      "Role": "a29a3ba5-4b0d-de11-9a51-005056c00008"
+    }
+  ]
+}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "29f24ac7-aa50-4160-8d1b-bbbb0a0019e8",
+    "Name": "UsrLoanPayments_ListPage",
+    "ModifiedOnUtc": "\/Date(1691095178000)\/",
+    "Parent": {
+      "UId": "3f1f3f38-a0a4-4549-b895-249fb08f554a",
+      "Name": "ListFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Loan Payments list page",
+    "DependsOn": []
+  }
+}

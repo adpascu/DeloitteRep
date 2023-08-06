@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "b889070e-7ab0-4917-b30b-22cf3f7f9773",
+    "Name": "UsrLoanPayments",
+    "ModifiedOnUtc": "\/Date(1691101795000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Loan Payments"
+  }
+}

@@ -1,0 +1,54 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "df529b5e-79bc-4165-8049-2a625a290a1c"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1691089128241+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "b4ed0758-eb9d-3855-b7cb-6c0afeca96af",
+          "Value": "LPT-04"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1691089128241+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "ebf6bb93-8aa6-4a01-900d-c6ea67affe21",
+          "Value": "be9f4a4a-b515-4d44-a31e-c0bc5b5ee52a",
+          "DisplayValue": "Donatello"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f1cc7145-c0d1-44ab-af2e-371a64728ad1"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1691089054654+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "b4ed0758-eb9d-3855-b7cb-6c0afeca96af",
+          "Value": "LPT-01"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1691089054654+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "ebf6bb93-8aa6-4a01-900d-c6ea67affe21",
+          "Value": "be9f4a4a-b515-4d44-a31e-c0bc5b5ee52a",
+          "DisplayValue": "Donatello"
+        }
+      ]
+    }
+  ]
+}

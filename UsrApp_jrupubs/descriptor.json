@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d0945975-0715-466c-910d-b22cc8b49ef8",
+    "Name": "UsrApp_jrupubs",
+    "Type": 1,
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrApp_jrupubs.csproj",
+    "DependsOn": []
+  }
+}

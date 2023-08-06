@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "dd41d7a1-894a-46bb-8808-2ca786ad86b1",
+    "Name": "UsrLoanPaymentSignature",
+    "ModifiedOnUtc": "\/Date(1691105411000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Loan payment signature"
+  }
+}

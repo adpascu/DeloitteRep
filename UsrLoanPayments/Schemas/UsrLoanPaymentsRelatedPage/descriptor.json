@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "46de6e9d-d3c1-4f73-9456-e0c66e9a1121",
+    "Name": "UsrLoanPaymentsRelatedPage",
+    "ModifiedOnUtc": "\/Date(1691095178000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Loan Payments (Page settings)",
+    "DependsOn": []
+  }
+}
